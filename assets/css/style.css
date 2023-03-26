@@ -894,6 +894,9 @@ section {
   #testimonials{
     height:55vh;
   }
+  .section-title{
+    padding-bottom: 0;
+  }
   .testimonials {
     margin: 0px 10px;
   }
