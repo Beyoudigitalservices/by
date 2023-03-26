@@ -889,7 +889,6 @@ section {
 }
 #testimonials{
   height: 50vh;
-  padding-top:4px;
 }
 @media (max-width: 767px) {
   #testimonials{
