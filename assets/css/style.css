@@ -895,7 +895,7 @@ section {
     height:55vh;
   }
   .test h2 {
-    padding-top: 5px;
+    padding-top: 0;
 }
   .testimonials {
     margin: 0px 10px;
