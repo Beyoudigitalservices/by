@@ -754,7 +754,10 @@ section {
   padding-right: 4px;
   color: #5846f9;
 }
-
+.first h3{
+  width: 70%;
+  line-height: 1.2cm;
+}
 .about-c{
    margin: 30px 0 30px 0;
    font-weight: 600;
@@ -810,6 +813,9 @@ section {
   .about-fx{
     display: inline-block;
     margin: 0;
+  }
+  .first h3{
+    width: 95%;
   }
   .about ul{
     width: 85%;
@@ -892,7 +898,7 @@ section {
 }
 @media (max-width: 767px) {
   #testimonials{
-    height:55vh;
+    height:60vh;
   }
   .test h2 {
     padding-top: 0;
